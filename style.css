@@ -28,7 +28,7 @@ a:hover {
 }
 
 body {
-	background-image: url(images/for1.jpg) ;
+	background-image: url(for1.jpg) ;
 	text-align:center ;
 	font:11px verdana,arial,sans-serif ;
 	color:#695f4c ;
@@ -45,7 +45,7 @@ body {
 	}
 
 #header {
-  background:#D9D1BC url(images/formm1.jpg)no-repeat;
+  background:#D9D1BC url(formm1.jpg)no-repeat;
   height:266px ;
 }
 #logo {
@@ -122,15 +122,15 @@ body {
   height: 111px;
 }
 #gallery .gwomen {
-  background: url(images/imagess.jpg) no-repeat; ;
+  background: url(imagess.jpg) no-repeat; ;
   width:127px ;
 }
 #gallery .gkids {
-  background: url(images/2017.png) no-repeat ;
+  background: url(2017.png) no-repeat ;
   width:130px ;
 }
 #gallery .gmen {
-  background: url(images/larg.jpg) no-repeat ;
+  background: url(larg.jpg) no-repeat ;
   width:128px ;
 }
 
@@ -180,7 +180,7 @@ h2 {
   background:#847a67 ;
 }
 #categories li {
-  background:#d4cab6 left url(images/bullet.gif)no-repeat ;
+  background:#d4cab6 left url(bullet.gif)no-repeat ;
   border-top:1px solid #f4efdf ;
   list-style:none ;
   font-size:12px ;
@@ -195,7 +195,7 @@ h2 {
 }
 
 #collection {
-  background:#d4cab6 bottom right url(images/.jpg)no-repeat ;
+  background:#d4cab6 bottom right url(.jpg)no-repeat ;
 }
 #collection .inner {
   padding-right:98px ;
@@ -239,12 +239,12 @@ h2 {
   float:left ;
   width:249px ;
   margin-right:3px ;
-  background:url(images/fe.jpg)no-repeat ;
+  background:url(fe.jpg)no-repeat ;
 }
 #seas-three {
   float:left ;
   width: 222px;
-  background:url(images/f.jpg)no-repeat ;
+  background:url(f.jpg)no-repeat ;
 }
 
 #seas p {
