@@ -1,0 +1,266 @@
+html, body, h1, h2, h3, h4, ul, li {
+	margin: 0;
+    padding:0 ;
+}
+h1 img {
+	display:block ;
+}
+img {
+	border:0;
+}
+a {
+	color:#464544 ;
+}
+a:hover {
+	color:#ffa405 ;
+}
+.left {
+	float:left ;
+}
+.right {
+	float:right ;
+}
+.more {
+	text-align:right ;
+}
+.clear {
+	clear:both;
+}
+
+body {
+	background-image: url(images/for1.jpg) ;
+	text-align:center ;
+	font:11px verdana,arial,sans-serif ;
+	color:#695f4c ;
+	padding-bottom:10px ;
+}
+
+/** layout **/
+#wrapper {
+	text-align:left ;
+	margin:37px auto ;
+	width:672px ;
+	background:#ffffff ;
+  	position:relative;
+	}
+
+#header {
+  background:#D9D1BC url(images/formm1.jpg)no-repeat;
+  height:266px ;
+}
+#logo {
+  position:absolute;
+  top:30px ;
+  left:300px ;
+  width:170px ;
+  color:#52616e ;
+}
+#logo h1 {
+  font:bold 24px "arial narrow",arial,sans-serif ;
+}
+#logo p {
+  margin:0 ;
+  font-weight:bold ;
+}
+
+#cart {
+  position: absolute;
+  top:10px ;
+  left: 454px;
+  width:208px ;
+  background:#4B5360 ;
+  width:209px ;
+}
+#cart-top {background:url();  }
+#cart-bot {background: url()no-repeat;  }
+#cart-cart {background:  url()no-repeat;  }
+#cart-cart {
+  padding: 
+  color:white ;
+}
+#cart p {
+  margin:0 ;
+}
+#cart .orange {
+  color: #ffb400;
+  font-size:10px ;
+}
+#cart a {
+  color:white ;
+  font-size:10px ;
+}
+
+.nav {
+  background:#4B5360 ;
+  position: absolute;
+  top: 101px;
+  left:287px ;
+  width:385px ;
+  padding: 9px 0;
+  text-align:center ;
+}
+.nav li {
+  list-style:none ;
+  display:inline ;
+  color:#fff ;
+}
+.nav a {
+  text-decoration:none ;
+  color:#fff ;
+}
+#gallery {
+  position:absolute ;
+  top:155px ;
+  left:287px ;
+  width:385px ;
+}
+#gallery li {
+  list-style:none ;
+  text-indent:-999px ;
+  float:left ;
+  overflow:hidden ;
+  height: 111px;
+}
+#gallery .gwomen {
+  background: url(images/imagess.jpg) no-repeat; ;
+  width:127px ;
+}
+#gallery .gkids {
+  background: url(images/2017.png) no-repeat ;
+  width:130px ;
+}
+#gallery .gmen {
+  background: url(images/larg.jpg) no-repeat ;
+  width:128px ;
+}
+
+#body {
+  padding-top:3px ;
+  background-color:#fff;
+}
+#categories {
+  float:left ;
+  width:195px ;
+}
+#seasonal, #collection {
+  float:right ;
+  width:474px ;
+  background: #D4CAB6 ;
+  margin-bottom: 2px ;
+}
+#seasonal .inner, #collection .inner {
+  padding:6px 12px ;
+}
+#seasonal p, #collection p {
+  margin:0.9em0 ;
+}
+
+.more a {
+  font-size:12px ;
+  color:#000 ;
+  text-decoration:none ;
+}
+.more a:hover {
+  text-decoration:underline;
+}
+
+h3 {
+  font:bold 14px"arial narrow",arial,sans-serif ; 
+  color: #1B1812 ;
+}
+
+h2 {
+  font:18px "arial narrow",arial,sans-serif ; 
+  color:#695f4c; ;
+  padding-bottom:10px ;
+}
+#categories h2 {
+  color:#fff ;
+  padding:4px 0 5px 39px ;
+  background:#847a67 ;
+}
+#categories li {
+  background:#d4cab6 left url(images/bullet.gif)no-repeat ;
+  border-top:1px solid #f4efdf ;
+  list-style:none ;
+  font-size:12px ;
+  padding:7px 0 8px 35px ;
+}
+#categories a {
+  text-decoration:none ;
+  color:#000000 ;
+}
+#categories a:hover {
+  text-decoration:underline ;
+}
+
+#collection {
+  background:#d4cab6 bottom right url(images/.jpg)no-repeat ;
+}
+#collection .inner {
+  padding-right:98px ;
+}
+#minigal {
+  float:right ;
+  width: 222px;
+  margin-top:1em ;
+  margin-bottom:1em ;
+}
+#minigal div {
+  float:left ;
+  margin:6px ;
+}
+#collection ul {
+  margin-left:1.5em ;
+}
+#collection li {
+  margin:0.2em0 ;
+  color:#463f32 ;
+  font-size: 16px;
+  font-weight:bold ;
+  font-family:"arial narrow"arial,sans-serif;
+}
+#collection p {
+  width:103px ;
+  margin-left:1.5em ;
+}
+
+#seas-one, #seas-two, #seas-three {
+  height:146px ;
+}
+
+#seas-one {
+  float:left ;
+  width:195px ;
+  margin-right:3px ;
+  background: url(images/f1.jpg)no-repeat;
+}
+#seas-two {
+  float:left ;
+  width:249px ;
+  margin-right:3px ;
+  background:url(images/fe.jpg)no-repeat ;
+}
+#seas-three {
+  float:left ;
+  width: 222px;
+  background:url(images/f.jpg)no-repeat ;
+}
+
+#seas p {
+  text-align:right ;
+  color:#000 ;
+  margin:80px 15px 0 0 ;
+  font-size:23px ;
+  font-weight:bold ;
+}
+#seas p.date {
+  margin-top:0 ;
+  font-size:16px ;
+}
+
+#copyright {
+  text-align:center ;
+  font-size:9px ;
+  padding:3px ;
+}
